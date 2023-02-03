@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "129473888049",
+    "project_id": "womensafety-17a82",
+    "storage_bucket": "womensafety-17a82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129473888049:android:59158a6391c26c59967a10",
+        "android_client_info": {
+          "package_name": "com.darkness.sparkwomen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129473888049-7b2gn0ip80qjjtdd54fnrisrt5aqupqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCevfSomWNfT6og18nlBhMq5sr266MDhEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129473888049-7b2gn0ip80qjjtdd54fnrisrt5aqupqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
